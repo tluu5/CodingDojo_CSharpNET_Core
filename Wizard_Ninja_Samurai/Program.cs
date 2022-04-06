@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Deck_of_Cards
+namespace Wizard_Ninja_Samurai
 {
     class Program
     {

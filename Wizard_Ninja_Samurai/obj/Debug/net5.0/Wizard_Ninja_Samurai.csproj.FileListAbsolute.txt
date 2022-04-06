@@ -1,0 +1,15 @@
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Wizard_Ninja_Samurai/bin/Debug/net5.0/Wizard_Ninja_Samurai.deps.json
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Wizard_Ninja_Samurai/bin/Debug/net5.0/Wizard_Ninja_Samurai.runtimeconfig.json
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Wizard_Ninja_Samurai/bin/Debug/net5.0/Wizard_Ninja_Samurai.runtimeconfig.dev.json
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Wizard_Ninja_Samurai/bin/Debug/net5.0/Wizard_Ninja_Samurai.dll
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Wizard_Ninja_Samurai/bin/Debug/net5.0/ref/Wizard_Ninja_Samurai.dll
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Wizard_Ninja_Samurai/bin/Debug/net5.0/Wizard_Ninja_Samurai.pdb
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Wizard_Ninja_Samurai/obj/Debug/net5.0/Wizard_Ninja_Samurai.csproj.AssemblyReference.cache
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Wizard_Ninja_Samurai/obj/Debug/net5.0/Wizard_Ninja_Samurai.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Wizard_Ninja_Samurai/obj/Debug/net5.0/Wizard_Ninja_Samurai.AssemblyInfoInputs.cache
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Wizard_Ninja_Samurai/obj/Debug/net5.0/Wizard_Ninja_Samurai.AssemblyInfo.cs
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Wizard_Ninja_Samurai/obj/Debug/net5.0/Wizard_Ninja_Samurai.csproj.CoreCompileInputs.cache
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Wizard_Ninja_Samurai/obj/Debug/net5.0/Wizard_Ninja_Samurai.dll
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Wizard_Ninja_Samurai/obj/Debug/net5.0/ref/Wizard_Ninja_Samurai.dll
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Wizard_Ninja_Samurai/obj/Debug/net5.0/Wizard_Ninja_Samurai.pdb
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Wizard_Ninja_Samurai/obj/Debug/net5.0/Wizard_Ninja_Samurai.genruntimeconfig.cache
