@@ -1,0 +1,15 @@
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Boxing_Unboxing/bin/Debug/net5.0/Boxing_Unboxing.deps.json
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Boxing_Unboxing/bin/Debug/net5.0/Boxing_Unboxing.runtimeconfig.json
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Boxing_Unboxing/bin/Debug/net5.0/Boxing_Unboxing.runtimeconfig.dev.json
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Boxing_Unboxing/bin/Debug/net5.0/Boxing_Unboxing.dll
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Boxing_Unboxing/bin/Debug/net5.0/ref/Boxing_Unboxing.dll
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Boxing_Unboxing/bin/Debug/net5.0/Boxing_Unboxing.pdb
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Boxing_Unboxing/obj/Debug/net5.0/Boxing_Unboxing.csproj.AssemblyReference.cache
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Boxing_Unboxing/obj/Debug/net5.0/Boxing_Unboxing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Boxing_Unboxing/obj/Debug/net5.0/Boxing_Unboxing.AssemblyInfoInputs.cache
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Boxing_Unboxing/obj/Debug/net5.0/Boxing_Unboxing.AssemblyInfo.cs
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Boxing_Unboxing/obj/Debug/net5.0/Boxing_Unboxing.csproj.CoreCompileInputs.cache
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Boxing_Unboxing/obj/Debug/net5.0/Boxing_Unboxing.dll
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Boxing_Unboxing/obj/Debug/net5.0/ref/Boxing_Unboxing.dll
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Boxing_Unboxing/obj/Debug/net5.0/Boxing_Unboxing.pdb
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Boxing_Unboxing/obj/Debug/net5.0/Boxing_Unboxing.genruntimeconfig.cache

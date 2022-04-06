@@ -1,0 +1,15 @@
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Basic_13/bin/Debug/net5.0/Basic_13.deps.json
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Basic_13/bin/Debug/net5.0/Basic_13.runtimeconfig.json
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Basic_13/bin/Debug/net5.0/Basic_13.runtimeconfig.dev.json
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Basic_13/bin/Debug/net5.0/Basic_13.dll
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Basic_13/bin/Debug/net5.0/ref/Basic_13.dll
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Basic_13/bin/Debug/net5.0/Basic_13.pdb
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Basic_13/obj/Debug/net5.0/Basic_13.csproj.AssemblyReference.cache
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Basic_13/obj/Debug/net5.0/Basic_13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Basic_13/obj/Debug/net5.0/Basic_13.AssemblyInfoInputs.cache
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Basic_13/obj/Debug/net5.0/Basic_13.AssemblyInfo.cs
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Basic_13/obj/Debug/net5.0/Basic_13.csproj.CoreCompileInputs.cache
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Basic_13/obj/Debug/net5.0/Basic_13.dll
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Basic_13/obj/Debug/net5.0/ref/Basic_13.dll
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Basic_13/obj/Debug/net5.0/Basic_13.pdb
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Basic_13/obj/Debug/net5.0/Basic_13.genruntimeconfig.cache
