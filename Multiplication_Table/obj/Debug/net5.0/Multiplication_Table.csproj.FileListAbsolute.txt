@@ -1,0 +1,15 @@
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Multiplication_Table/bin/Debug/net5.0/Multiplication_Table.deps.json
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Multiplication_Table/bin/Debug/net5.0/Multiplication_Table.runtimeconfig.json
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Multiplication_Table/bin/Debug/net5.0/Multiplication_Table.runtimeconfig.dev.json
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Multiplication_Table/bin/Debug/net5.0/Multiplication_Table.dll
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Multiplication_Table/bin/Debug/net5.0/ref/Multiplication_Table.dll
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Multiplication_Table/bin/Debug/net5.0/Multiplication_Table.pdb
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Multiplication_Table/obj/Debug/net5.0/Multiplication_Table.csproj.AssemblyReference.cache
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Multiplication_Table/obj/Debug/net5.0/Multiplication_Table.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Multiplication_Table/obj/Debug/net5.0/Multiplication_Table.AssemblyInfoInputs.cache
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Multiplication_Table/obj/Debug/net5.0/Multiplication_Table.AssemblyInfo.cs
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Multiplication_Table/obj/Debug/net5.0/Multiplication_Table.csproj.CoreCompileInputs.cache
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Multiplication_Table/obj/Debug/net5.0/Multiplication_Table.dll
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Multiplication_Table/obj/Debug/net5.0/ref/Multiplication_Table.dll
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Multiplication_Table/obj/Debug/net5.0/Multiplication_Table.pdb
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Multiplication_Table/obj/Debug/net5.0/Multiplication_Table.genruntimeconfig.cache
