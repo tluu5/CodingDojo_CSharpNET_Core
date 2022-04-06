@@ -1,0 +1,15 @@
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/FirstCSharp/bin/Debug/net5.0/FirstCSharp.deps.json
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/FirstCSharp/bin/Debug/net5.0/FirstCSharp.runtimeconfig.json
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/FirstCSharp/bin/Debug/net5.0/FirstCSharp.runtimeconfig.dev.json
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/FirstCSharp/bin/Debug/net5.0/FirstCSharp.dll
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/FirstCSharp/bin/Debug/net5.0/ref/FirstCSharp.dll
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/FirstCSharp/bin/Debug/net5.0/FirstCSharp.pdb
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/FirstCSharp/obj/Debug/net5.0/FirstCSharp.csproj.AssemblyReference.cache
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/FirstCSharp/obj/Debug/net5.0/FirstCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/FirstCSharp/obj/Debug/net5.0/FirstCSharp.AssemblyInfoInputs.cache
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/FirstCSharp/obj/Debug/net5.0/FirstCSharp.AssemblyInfo.cs
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/FirstCSharp/obj/Debug/net5.0/FirstCSharp.csproj.CoreCompileInputs.cache
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/FirstCSharp/obj/Debug/net5.0/FirstCSharp.dll
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/FirstCSharp/obj/Debug/net5.0/ref/FirstCSharp.dll
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/FirstCSharp/obj/Debug/net5.0/FirstCSharp.pdb
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/FirstCSharp/obj/Debug/net5.0/FirstCSharp.genruntimeconfig.cache
