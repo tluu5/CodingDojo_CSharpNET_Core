@@ -1,0 +1,15 @@
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Hungry_Ninja/bin/Debug/net5.0/Hungry_Ninja.deps.json
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Hungry_Ninja/bin/Debug/net5.0/Hungry_Ninja.runtimeconfig.json
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Hungry_Ninja/bin/Debug/net5.0/Hungry_Ninja.runtimeconfig.dev.json
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Hungry_Ninja/bin/Debug/net5.0/Hungry_Ninja.dll
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Hungry_Ninja/bin/Debug/net5.0/ref/Hungry_Ninja.dll
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Hungry_Ninja/bin/Debug/net5.0/Hungry_Ninja.pdb
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Hungry_Ninja/obj/Debug/net5.0/Hungry_Ninja.csproj.AssemblyReference.cache
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Hungry_Ninja/obj/Debug/net5.0/Hungry_Ninja.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Hungry_Ninja/obj/Debug/net5.0/Hungry_Ninja.AssemblyInfoInputs.cache
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Hungry_Ninja/obj/Debug/net5.0/Hungry_Ninja.AssemblyInfo.cs
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Hungry_Ninja/obj/Debug/net5.0/Hungry_Ninja.csproj.CoreCompileInputs.cache
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Hungry_Ninja/obj/Debug/net5.0/Hungry_Ninja.dll
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Hungry_Ninja/obj/Debug/net5.0/ref/Hungry_Ninja.dll
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Hungry_Ninja/obj/Debug/net5.0/Hungry_Ninja.pdb
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Hungry_Ninja/obj/Debug/net5.0/Hungry_Ninja.genruntimeconfig.cache

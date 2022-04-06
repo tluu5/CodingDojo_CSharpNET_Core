@@ -1,0 +1,15 @@
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Deck_of_Cards/bin/Debug/net5.0/Deck_of_Cards.deps.json
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Deck_of_Cards/bin/Debug/net5.0/Deck_of_Cards.runtimeconfig.json
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Deck_of_Cards/bin/Debug/net5.0/Deck_of_Cards.runtimeconfig.dev.json
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Deck_of_Cards/bin/Debug/net5.0/Deck_of_Cards.dll
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Deck_of_Cards/bin/Debug/net5.0/ref/Deck_of_Cards.dll
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Deck_of_Cards/bin/Debug/net5.0/Deck_of_Cards.pdb
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Deck_of_Cards/obj/Debug/net5.0/Deck_of_Cards.csproj.AssemblyReference.cache
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Deck_of_Cards/obj/Debug/net5.0/Deck_of_Cards.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Deck_of_Cards/obj/Debug/net5.0/Deck_of_Cards.AssemblyInfoInputs.cache
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Deck_of_Cards/obj/Debug/net5.0/Deck_of_Cards.AssemblyInfo.cs
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Deck_of_Cards/obj/Debug/net5.0/Deck_of_Cards.csproj.CoreCompileInputs.cache
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Deck_of_Cards/obj/Debug/net5.0/Deck_of_Cards.dll
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Deck_of_Cards/obj/Debug/net5.0/ref/Deck_of_Cards.dll
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Deck_of_Cards/obj/Debug/net5.0/Deck_of_Cards.pdb
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Deck_of_Cards/obj/Debug/net5.0/Deck_of_Cards.genruntimeconfig.cache
