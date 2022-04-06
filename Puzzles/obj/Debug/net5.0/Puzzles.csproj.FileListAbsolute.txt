@@ -1,0 +1,15 @@
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Puzzles/bin/Debug/net5.0/Puzzles.deps.json
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Puzzles/bin/Debug/net5.0/Puzzles.runtimeconfig.json
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Puzzles/bin/Debug/net5.0/Puzzles.runtimeconfig.dev.json
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Puzzles/bin/Debug/net5.0/Puzzles.dll
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Puzzles/bin/Debug/net5.0/ref/Puzzles.dll
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Puzzles/bin/Debug/net5.0/Puzzles.pdb
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Puzzles/obj/Debug/net5.0/Puzzles.csproj.AssemblyReference.cache
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Puzzles/obj/Debug/net5.0/Puzzles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Puzzles/obj/Debug/net5.0/Puzzles.AssemblyInfoInputs.cache
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Puzzles/obj/Debug/net5.0/Puzzles.AssemblyInfo.cs
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Puzzles/obj/Debug/net5.0/Puzzles.csproj.CoreCompileInputs.cache
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Puzzles/obj/Debug/net5.0/Puzzles.dll
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Puzzles/obj/Debug/net5.0/ref/Puzzles.dll
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Puzzles/obj/Debug/net5.0/Puzzles.pdb
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/Puzzles/obj/Debug/net5.0/Puzzles.genruntimeconfig.cache
