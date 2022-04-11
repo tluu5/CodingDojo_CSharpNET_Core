@@ -1,0 +1,15 @@
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/AdvancedOOP/bin/Debug/net5.0/AdvancedOOP.deps.json
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/AdvancedOOP/bin/Debug/net5.0/AdvancedOOP.runtimeconfig.json
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/AdvancedOOP/bin/Debug/net5.0/AdvancedOOP.runtimeconfig.dev.json
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/AdvancedOOP/bin/Debug/net5.0/AdvancedOOP.dll
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/AdvancedOOP/bin/Debug/net5.0/ref/AdvancedOOP.dll
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/AdvancedOOP/bin/Debug/net5.0/AdvancedOOP.pdb
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/AdvancedOOP/obj/Debug/net5.0/AdvancedOOP.csproj.AssemblyReference.cache
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/AdvancedOOP/obj/Debug/net5.0/AdvancedOOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/AdvancedOOP/obj/Debug/net5.0/AdvancedOOP.AssemblyInfoInputs.cache
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/AdvancedOOP/obj/Debug/net5.0/AdvancedOOP.AssemblyInfo.cs
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/AdvancedOOP/obj/Debug/net5.0/AdvancedOOP.csproj.CoreCompileInputs.cache
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/AdvancedOOP/obj/Debug/net5.0/AdvancedOOP.dll
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/AdvancedOOP/obj/Debug/net5.0/ref/AdvancedOOP.dll
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/AdvancedOOP/obj/Debug/net5.0/AdvancedOOP.pdb
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/AdvancedOOP/obj/Debug/net5.0/AdvancedOOP.genruntimeconfig.cache
