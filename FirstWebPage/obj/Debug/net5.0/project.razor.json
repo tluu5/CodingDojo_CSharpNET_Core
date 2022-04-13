@@ -1,5 +1,5 @@
 {
-  "FilePath": "/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/FirstwebPage/FirstwebPage.csproj",
+  "FilePath": "/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/FirstWebPage/FirstwebPage.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15619,12 +15619,22 @@
   "RootNamespace": "FirstwebPage",
   "Documents": [
     {
-      "FilePath": "/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/FirstwebPage/Views/First/Index.cshtml",
+      "FilePath": "/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/FirstWebPage/Views/First/Index.cshtml",
       "TargetPath": "Views\\First\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/FirstwebPage/Views/First/Second.cshtml",
+      "FilePath": "/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/FirstWebPage/Views/First/Success.cshtml",
+      "TargetPath": "Views\\First\\Success.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/FirstWebPage/Views/First/Form.cshtml",
+      "TargetPath": "Views\\First\\Form.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/FirstWebPage/Views/First/Second.cshtml",
       "TargetPath": "Views\\First\\Second.cshtml",
       "FileKind": "mvc"
     }
