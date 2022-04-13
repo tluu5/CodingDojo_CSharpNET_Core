@@ -1,3 +1,4 @@
+using System;
 using Microsoft.AspNetCore.Mvc;
 
 namespace FirstWebPage.Controllers
@@ -30,9 +31,15 @@ namespace FirstWebPage.Controllers
             return View();
         }
         [HttpPost("postForm")]
-        public IActionResult postForm()
+        public IActionResult postForm(string Name, string FavColor, int FavNumber)
         {
-            return RedirectToAction("Success");
+            Console.WriteLine($"Name: {Name}");
+            Console.WriteLine($"Fav Color: {FavColor}");
+            Console.WriteLine($"Fav Number: {FavNumber}");
+            ViewBag.Name = Name;
+            ViewBag.FavColor = FavColor;
+            ViewBag.FavNumber = FavNumber;
+            return View("Success");
         }
         [HttpGet("Success")]
         public IActionResult Success()
