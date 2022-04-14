@@ -15652,6 +15652,11 @@
       "FilePath": "/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/mvcLecture/Views/Shared/Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/mvcLecture/Views/Home/Results.cshtml",
+      "TargetPath": "Views\\Home\\Results.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.2"

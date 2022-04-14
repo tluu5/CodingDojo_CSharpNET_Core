@@ -29,6 +29,18 @@ namespace mvcLecture.Controllers
             return View();
         }
 
+        [HttpPost("postForm")]
+        public IActionResult postForm(User newUser)
+        {
+            if(ModelState.IsValid)
+            {
+                Console.WriteLine(newUser.Name);
+                return View("Results", newUser);
+            } else {
+                return View("Index");
+            }
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

@@ -37,3 +37,4 @@
 /Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/mvcLecture/obj/Debug/net5.0/mvcLecture.pdb
 /Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/mvcLecture/obj/Debug/net5.0/mvcLecture.genruntimeconfig.cache
 /Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/mvcLecture/obj/Debug/net5.0/mvcLecture.csproj.CopyComplete
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/mvcLecture/obj/Debug/net5.0/Razor/Views/Home/Results.cshtml.g.cs
