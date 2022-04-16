@@ -1,0 +1,40 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model Dojo_Survey_Index
+
+<div class="text-center">
+    <form action="postForm" method="post">
+        <div class="form-group">
+            <label for="Your_Name">Your Name:</label>
+            <input class="form-control" asp-for="Your_Name">
+            <span class="text-danger" asp-validation-for="Your_Name"></span>
+        </div>
+        <div class="form-group">
+            <label for="Dojo_Location">Dojo Location:</label>
+            <select class="form-control" id="Dojo_Location" name="Dojo_Location" asp-for="Dojo_Location">
+                <option value="Chicago">Chicago</option>
+                <option value="New_York">New York</option>
+                <option value="Las_Vagas">Las Vagas</option>
+                <option value="Orlando">Orlando</option>
+            </select>
+            <span class="text-danger" asp-validation-for="Dojo_Location"></span>
+        </div>
+        <div class="form-group">
+            <label for="Favorite_Language">Favorite Language:</label>
+            <select class="form-control" id="Favorite_Language" name="Favorite_Language" asp-for="Favorite_Language">
+                <option value="C#">C#</option>
+                <option value="Python">Python</option>
+                <option value="Mern">Mern</option>
+            </select>
+            <span class="text-danger" asp-validation-for="Favorite_Language"></span>
+        </div>
+        <div class="form-group">
+            <label for="Comment">Comment (optional):</label>
+            <input class="form-control" asp-for="Comment">
+        </div>
+        <div class="form-group">
+            <input type="submit" class="btn btn-primary" value="Submit">
+        </div>
+    </form>
+</div>
