@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Hungry_Ninja
+namespace FoodsAssignment
 {
     class Program
     {
@@ -9,7 +9,7 @@ namespace Hungry_Ninja
             Ninja ninja = new Ninja();
             Buffet buffet = new Buffet();
 
-            while (!ninja.IsFull)
+            while(!ninja.IsFull)
             {
                 ninja.Eat(buffet.Serve());
             }
