@@ -1,0 +1,148 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1>All Pets</h1>
+    <table class="table table-striped">
+        <tr>
+            <td>Name</td>
+            <td>Species</td>
+            <td>Breed</td>
+            <td>Age</td>
+            <td>Loves Cuddles</td>
+        </tr>
+        @{
+            foreach(Pet p in ViewBag.AllPets)
+            {
+                <tr>
+                    <td>@p.Name</td>
+                    <td>@p.Species</td>
+                    <td>@p.Breed</td>
+                    <td>@p.Age</td>
+                    <td>@p.LoveCuddle</td>
+                </tr>
+            }
+        }
+    </table>
+
+    <h1>All Cats</h1>
+    <table class="table table-striped">
+        <tr>
+            <td>Name</td>
+            <td>Species</td>
+            <td>Breed</td>
+            <td>Age</td>
+            <td>Loves Cuddles</td>
+        </tr>
+        @{
+            foreach(Pet p in ViewBag.AllCats)
+            {
+                <tr>
+                    <td>@p.Name</td>
+                    <td>@p.Species</td>
+                    <td>@p.Breed</td>
+                    <td>@p.Age</td>
+                    <td>@p.LoveCuddle</td>
+                </tr>
+            }
+        }
+    </table>
+
+    <h1>All Cuddlers</h1>
+    <table class="table table-striped">
+        <tr>
+            <td>Name</td>
+            <td>Species</td>
+            <td>Breed</td>
+            <td>Age</td>
+            <td>Loves Cuddles</td>
+        </tr>
+        @{
+            foreach(Pet p in ViewBag.Cuddles)
+            {
+                <tr>
+                    <td>@p.Name</td>
+                    <td>@p.Species</td>
+                    <td>@p.Breed</td>
+                    <td>@p.Age</td>
+                    <td>@p.LoveCuddle</td>
+                </tr>
+            }
+        }
+    </table>
+
+    <h1>All Labs</h1>
+    <table class="table table-striped">
+        <tr>
+            <td>Name</td>
+            <td>Species</td>
+            <td>Breed</td>
+            <td>Age</td>
+            <td>Loves Cuddles</td>
+        </tr>
+        @{
+            foreach(Pet p in ViewBag.AllLabs)
+            {
+                <tr>
+                    <td>@p.Name</td>
+                    <td>@p.Species</td>
+                    <td>@p.Breed</td>
+                    <td>@p.Age</td>
+                    <td>@p.LoveCuddle</td>
+                </tr>
+            }
+        }
+    </table>
+
+    <h1>All Breeds</h1>
+    <h3>@String.Join(", ", ViewBag.SelectBreed)</h3>
+
+    <h2>The first cat in the database was: @ViewBag.FirstCat.Name the @ViewBag.FirstCat.Breed</h2>
+
+    <h1>All B Names</h1>
+    <table class="table table-striped">
+        <tr>
+            <td>Name</td>
+            <td>Species</td>
+            <td>Breed</td>
+            <td>Age</td>
+            <td>Loves Cuddles</td>
+        </tr>
+        @{
+            foreach(Pet p in ViewBag.BNames)
+            {
+                <tr>
+                    <td>@p.Name</td>
+                    <td>@p.Species</td>
+                    <td>@p.Breed</td>
+                    <td>@p.Age</td>
+                    <td>@p.LoveCuddle</td>
+                </tr>
+            }
+        }
+    </table>
+
+        <h1>All Pets over 20 who do not like cuddle</h1>
+    <table class="table table-striped">
+        <tr>
+            <td>Name</td>
+            <td>Species</td>
+            <td>Breed</td>
+            <td>Age</td>
+            <td>Loves Cuddles</td>
+        </tr>
+        @{
+            foreach(Pet p in ViewBag.TwentyNoCuddles)
+            {
+                <tr>
+                    <td>@p.Name</td>
+                    <td>@p.Species</td>
+                    <td>@p.Breed</td>
+                    <td>@p.Age</td>
+                    <td>@p.LoveCuddle</td>
+                </tr>
+            }
+        }
+    </table>
+</div>
