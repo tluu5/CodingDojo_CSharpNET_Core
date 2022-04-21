@@ -1,0 +1,11 @@
+﻿@model Quote
+<h1>Welcome to Quoting Dojo</h1>
+<div asp-validation-summary="All"></div>
+<form method="post" asp-action="Create" asp-controller="Home">
+    <label asp-for="Byline"></label>
+    <input type="text" asp-for="Byline">
+    <label asp-for="Content"></label>
+    <textarea asp-for="Content"></textarea>
+    <input type="submit" value="Add to my Quotes!">
+</form>
+<a href="/quotes">Skip to my quotes!</a>
