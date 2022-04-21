@@ -11,6 +11,9 @@ namespace crudDemo.Models
         public string Name {get;set;}
         [Required]
         public string Species {get;set;}
+
+        [DataType(DataType.Date)]
+        public DateTime DoB {get;set;}
         public DateTime CreatedAt { get; set; } = DateTime.Now;
         public DateTime UpdatedAt { get; set; } = DateTime.Now;
     }

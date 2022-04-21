@@ -47,3 +47,4 @@
 /Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/crudDemo/obj/Debug/net5.0/ref/crudDemo.dll
 /Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/crudDemo/obj/Debug/net5.0/crudDemo.pdb
 /Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/crudDemo/obj/Debug/net5.0/crudDemo.genruntimeconfig.cache
+/Users/brianluu/Desktop/CodingDojo_CSharpNET_Core/crudDemo/obj/Debug/net5.0/Razor/Views/Home/EditPet.cshtml.g.cs
