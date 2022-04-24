@@ -1,0 +1,33 @@
+@{
+    ViewData["Title"] = "Dishes Page";
+}
+
+<div class="text-center">
+    <div class="text-center">
+        <a href="/">Chefs</a> | <a href="/dishes">Dishes</a>
+        <br>
+        <a href="/dishes/new">Add a Dish</a>
+        <h1>Yum, take a look at our tasty dishes!</h1>
+    </div>
+    <div class="row">
+        <table class="table table-striped">
+            <tr>
+                <td>Name</td>
+                <td>Chef</td>
+                <td>Tastiness</td>
+                <td>Calories</td>
+            </tr>
+            @{
+                foreach (Dish a in ViewBag.AllDishes)
+                {
+                    <tr>
+                        <td>@a.Name</td>
+                        <td>@a.Worker.FirstName @a.Worker.LastName</td>
+                        <td>@a.Tastiness</td>
+                        <td>@a.Calories</td>
+                    </tr>
+                }
+            }
+        </table>
+    </div>
+</div>

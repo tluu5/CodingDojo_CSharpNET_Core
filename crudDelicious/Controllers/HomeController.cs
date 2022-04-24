@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using crudDelicious.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace crudDelicious.Controllers
 {
@@ -27,9 +28,9 @@ namespace crudDelicious.Controllers
         }
 
         [HttpGet("dishes/new")]
-        public IActionResult NewDish(Dish newDish)
+        public IActionResult NewDish()
         {
-            return View("NewDish");
+            return View();
         }
 
         [HttpPost("dishes/add")]
@@ -41,7 +42,7 @@ namespace crudDelicious.Controllers
                 _context.SaveChanges();
                 return RedirectToAction("Index");
             } else{
-                return View("Index");
+                return View("NewDish");
             }
         }
 
