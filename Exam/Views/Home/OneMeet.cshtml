@@ -1,0 +1,22 @@
+@model Meet
+
+<div class="text-center">
+    <div class="text-center">
+        <h1>Dojo Meet Up Center</h1>
+        <a href="/Dashboard">Dashboard</a>
+        <a href="/Logout">Log Out</a>
+    </div>
+    <h2>@ViewBag.Meet.Title</h2>
+    <h2>Event Coordinator: @ViewBag.Meet.Creator.Name</h2>
+    <h2>Description: @ViewBag.Meet.Description</h2>
+    @* <form action="/order/add" method="post">
+        <input type="hidden" name="MeetId" value="@ViewBag.AllMeets.MeetId">
+        <input type="hidden" name="UserId" value="@ViewBag.LoggedIn.UserId">
+        <input type="submit" value="Join" class="btn btn-primary">
+    </form> *@
+    <h2>Participants:</h2>
+    @foreach (Order a in ViewBag.Meet.GuestsList)
+    {
+        <h2>@a.Guest.Name</h2>
+    }
+</div>

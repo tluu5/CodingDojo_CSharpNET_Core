@@ -1,0 +1,66 @@
+@model Wedding
+
+<h1>Welcome @ViewBag.LoggedIn.FirstName @ViewBag.LoggedIn.LastName!</h1>
+
+<div class="text-center">
+    <div class="text-center">
+        <h2>Welcome to the Wedding Planner</h2>
+        <a href="/Logout">Log Out</a>
+    </div>
+    <div class="row">
+        <table class="table table-striped">
+            <tr>
+                <td>Wedding</td>
+                <td>Date</td>
+                <td>Guest</td>
+                <td>Action</td>
+            </tr>
+            @{
+                foreach (Wedding p in ViewBag.AllWeddings)
+                {
+                    <tr>
+                        <td><a href="/wedding/@p.WeddingId">@p.WeddingOne & @p.WeddingTwo</a></td>
+                        <td>@p.WeddingDate</td>
+                        <td>@p.GuestsList.Count</td>
+                        @if (p.UserId == ViewBag.Loggedin.UserId)
+                        {
+                            <td><a href="/wedding/delete/@p.WeddingId">Delete</a></td>
+                        }
+                        else
+                        {
+                            bool found = false;
+                            foreach (Order a in p.GuestsList)
+                            {
+                                if (a.UserId == ViewBag.Loggedin.UserId)
+                                {
+                                    found = true;
+                                }
+                            }
+                            if (found)
+                            {
+                                <td>
+                                    <form action="/order/remove" method="post">
+                                        <input type="hidden" name="WeddingId" value="@p.WeddingId">
+                                        <input type="hidden" name="UserId" value="@ViewBag.Loggedin.UserId">
+                                        <input type="submit" value="Un-RSVP" class="btn btn-primary">
+                                    </form>
+                                </td>
+                            }
+                            else
+                            {
+                                <td>
+                                    <form action="/order/add" method="post">
+                                        <input type="hidden" name="WeddingId" value="@p.WeddingId">
+                                        <input type="hidden" name="UserId" value="@ViewBag.Loggedin.UserId">
+                                        <input type="submit" value="RSVP" class="btn btn-primary">
+                                    </form>
+                                </td>
+                            }
+                        }
+                    </tr>
+                }
+            }
+        </table>
+        <a href="/weddings/add">New Wedding</a>
+    </div>
+</div>

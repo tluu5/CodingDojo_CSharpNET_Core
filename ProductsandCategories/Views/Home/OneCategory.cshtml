@@ -1,0 +1,35 @@
+@model Association
+
+<h1>@ViewBag.OneCategory.Name</h1>
+<div class="row">
+    <div class="col-6">
+        <h3>Products:</h3>
+        @foreach (Association c in ViewBag.OneCategory.CategoryWithIn)
+        {
+            <h4>@c.Product.Name</h4>
+        }
+    </div>
+    <div class="col-6">
+        @{
+            if (ViewBag.ProductsNotWithIn.Count != 0)
+            {
+                <form action="/association/add" method="post">
+                    <input type="hidden" name="option" value="category">
+                    <input type="hidden" asp-for="CategoryId" value="@ViewBag.OneCategory.CategoryId">
+                    <div class="form-group">
+                        <label for="ProductId">Add Product:</label>
+                        <select name="ProductId" class="form-control">
+                            @foreach (Product a in ViewBag.ProductsNotWithIn)
+                            {
+                                <option value="@a.ProductId">@a.Name</option>
+                            }
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <input type="submit" value="Add" class="btn btn-primary">
+                    </div>
+                </form>
+            }
+        }
+    </div>
+</div>

@@ -1,0 +1,65 @@
+@model Meet
+
+<div class="text-center">
+    <div class="text-center">
+        <h1>Dojo Meet Up Center</h1>
+        <h2>Welcome, @ViewBag.LoggedIn.Name!</h2>
+        <a href="/Logout">Log Out</a>
+    </div>
+    <div class="row">
+        <table class="table table-striped">
+            <tr>
+                <td>Meet Up</td>
+                <td>Date and Time</td>
+                <td>Duration</td>
+                <td>Event Coordinator</td>
+                <td>No. of Participants</td>
+                <td>Actions</td>
+            </tr>
+            @{
+                foreach (Meet p in ViewBag.AllMeets)
+                {
+                    <tr>
+                        <td><a href="/meet/@p.MeetId">@p.Title</a></td>
+                        <td>@p.DateNTime</td>
+                        <td>@p.Minutes Minutes : @p.Hours Hours : @p.Days Days</td>
+                        <td>@p.Creator.Name</td>
+                        <td>@p.GuestsList.Count</td>
+                        @if (p.UserId == ViewBag.LoggedIn.UserId)
+                        {
+                            <td><a href="/meet/delete/@p.MeetId">Delete</a></td>
+                        } else{
+                            bool found = false;
+                            foreach (Order a in p.GuestsList)
+                            {
+                                if (a.UserId == ViewBag.LoggedIn.UserId)
+                                {
+                                    found = true;
+                                }
+                            }
+                            if (found)
+                            {
+                                <td>
+                                    <form action="/order/remove" method="post">
+                                        <input type="hidden" name="MeetId" value="@p.MeetId">
+                                        <input type="hidden" name="UserId" value="@ViewBag.LoggedIn.UserId">
+                                        <input type="submit" value="Leave" class="btn btn-primary">
+                                    </form>
+                                </td>
+                            } else{
+                                <td>
+                                    <form action="/order/add" method="post">
+                                        <input type="hidden" name="MeetId" value="@p.MeetId">
+                                        <input type="hidden" name="UserId" value="@ViewBag.LoggedIn.UserId">
+                                        <input type="submit" value="Join" class="btn btn-primary">
+                                    </form>
+                                </td>
+                            }
+                        }
+                    </tr>
+                }
+            }
+        </table>
+        <a href="/meets/add">Add New Activity</a>
+    </div>
+</div>

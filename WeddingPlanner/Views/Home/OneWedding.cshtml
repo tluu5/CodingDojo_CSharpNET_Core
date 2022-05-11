@@ -1,0 +1,19 @@
+@model Wedding
+
+<div class="text-center">
+    <h2>@ViewBag.Wedding.WeddingOne and @ViewBag.Wedding.WeddingTwo 's Wedding</h2>
+    <a href="/Dashboard">Dashboard</a> | <a href="/Logout">Log Out</a>
+    <h2>Date: @ViewBag.Wedding.WeddingDate</h2>
+    <h2>Planner: @ViewBag.Wedding.Bride.FirstName @ViewBag.Wedding.Bride.LastName</h2>
+    <h2>Guests:</h2>
+    @foreach (Order a in ViewBag.Wedding.GuestsList)
+    {
+        <h2>@a.Guest.FirstName @a.Guest.LastName</h2>
+    }
+    <h2>Address: @ViewBag.Wedding.WeddingAddress</h2>
+    @if(ViewBag.Wedding.UserId == ViewBag.User)
+    {
+        <a href="/wedding/delete/@ViewBag.Wedding.WeddingId" class="btn btn-danger">Delete</a>
+        <a href="/wedding/edit/@ViewBag.Wedding.WeddingId" class="btn btn-info">Edit</a>
+    }
+</div>
